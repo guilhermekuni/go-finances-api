@@ -12,7 +12,7 @@
 
 ## Techs 💻
 
-- **NodeJS** - A platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
+- **Node.js** - A platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
 - **Typescript** - An open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
 - **TypeORM** - An ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript.
 - **Jest** - A JavaScript library for unit/integration testing implementation.

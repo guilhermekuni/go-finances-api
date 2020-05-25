@@ -7,8 +7,8 @@
 
 ## Links 🔗
 
-- Challenge 06: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload
-- Front-end Web: 
+- [Challenge 06](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
+- [Front-end Web](https://github.com/guilhermekuni/go-finances-web)
 
 ## Techs 💻
 

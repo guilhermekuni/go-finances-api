@@ -5,6 +5,11 @@
     <p>This project is the resolution of the Challenge 06 from Rocketseat's GoStack Bootcamp.</p>
 </div>
 
+
+## About ℹ️
+
+This project is the resolution of the Challenge 06 from Rocketseat's GoStack Bootcamp. It's also the Back-end API of a simple finances App, called GoFinances. Basically, you can import a .csv file and analyse your transactions.
+
 ## Links 🔗
 
 - [Challenge 06](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
